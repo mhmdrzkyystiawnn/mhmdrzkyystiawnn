@@ -11,7 +11,7 @@
 
 <br />
 
-## 👋 About Me
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;About Me
 
 I'm a vocational high school student majoring in Software and Game Development (PPLG) in Bogor, Indonesia, currently interning as a web developer. I'm early in my journey, and I'd rather be honest about that than perform confidence I haven't earned yet.
 
@@ -21,7 +21,7 @@ Outside of work, I build personal projects shaped by things I care about beyond 
 
 <br />
 
-## 🎯 Current Focus
+## <img src="https://api.iconify.design/lucide:target.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;Current Focus
 
 ```
 Backend    → NestJS, PostgreSQL — learning to design data models that hold up
@@ -31,7 +31,7 @@ Practice   → writing code I'd be comfortable handing to a teammate
 
 <br />
 
-## 🗂️ Featured Projects
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;Featured Projects
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ A minimal editorial micro-blog.
 
 <br />
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -85,7 +85,7 @@ A minimal editorial micro-blog.
 
 <br />
 
-## 📚 Learning / Currently Exploring
+## <img src="https://api.iconify.design/lucide:book-open.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;Learning / Currently Exploring
 
 - System design fundamentals — structuring a codebase that scales past one feature
 - Advanced NestJS patterns — guards, interceptors, RLS-style data access
@@ -94,7 +94,7 @@ A minimal editorial micro-blog.
 
 <br />
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;GitHub Stats
 
 <div align="center">
 
