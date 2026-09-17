@@ -1,61 +1,109 @@
 <div align="center">
 
-# Muhamad Rizky Setiawan
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Muhamad+Rizky+Setiawan;Web+Developer+%E2%80%94+Student+%E2%80%94+Builder;Designing+with+intention%2C+not+just+ambition." alt="typing animation" />
 
-### Web & Mobile Developer
+<br />
 
-<img src="https://img.shields.io/badge/Status-PKL%20%2F%20Internship-000000?style=flat-square" alt="status" />
-<img src="https://img.shields.io/badge/Based%20in-Bogor%2C%20Indonesia-000000?style=flat-square" alt="location" />
-
-[Portfolio](https://portofolio.muhamadrizky.my.id) · [GitHub](https://github.com/mhmdrzkyystiawnn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portofolio.muhamadrizky.my.id)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmdrzkyystiawnn)
 
 </div>
 
 <br />
 
-## Tentang Saya
+## 👋 About Me
 
-Saya seorang pengembang web & mobile yang sedang menjalani program PKL (Praktik Kerja Lapangan), berfokus pada pengerjaan **Facility Management (FM) module** di sebuah proyek monorepo skala perusahaan. Di luar itu, saya membangun beberapa proyek pribadi dengan penekanan pada desain editorial yang konsisten dan bersih.
+I'm a vocational high school student majoring in Software and Game Development (PPLG) in Bogor, Indonesia, currently interning as a web developer. I'm early in my journey, and I'd rather be honest about that than perform confidence I haven't earned yet.
 
-<br />
+At my internship, I work on production software — contributing to Facility Management modules inside a larger monorepo, alongside a team, on code that other people depend on. It's taught me more than any course ever did.
 
-## Proyek
-
-| Proyek | Deskripsi | Teknologi |
-| :--- | :--- | :--- |
-| **[Portofolio](https://portofolio.muhamadrizky.my.id)** | Website portofolio pribadi | — |
-| **Laras (KBBI)** | Aplikasi kamus Bahasa Indonesia modern, lengkap dengan pencarian sajak | Astro, TypeScript |
-| **Catatan** | Aplikasi jurnal/notes pribadi dengan desain editorial masthead | React, Next.js, Supabase |
-| **Warta** | Micro-blog editorial | Next.js |
-| **AI Recap Work Summary** | CLI tool yang otomatis membuat draf jurnal harian PKL dari aktivitas git | Node.js, Gemini API |
+Outside of work, I build personal projects shaped by things I care about beyond code: editorial design, typography, writing, and digital publishing. I'd rather ship something small and considered than something big and sloppy.
 
 <br />
 
-## Tech Stack
+## 🎯 Current Focus
+
+```
+Backend    → NestJS, PostgreSQL — learning to design data models that hold up
+Frontend   → React, Next.js — building interfaces that feel calm, not busy
+Practice   → writing code I'd be comfortable handing to a teammate
+```
+
+<br />
+
+## 🗂️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Portfolio](https://portofolio.muhamadrizky.my.id)**
+My personal site — where I write about and showcase what I build.
+`—`
+
+**Laras**
+A modern Indonesian dictionary (KBBI) app, including rhyme search.
+`Astro` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**Catatan**
+A personal journal app with an editorial-inspired interface.
+`React` `Next.js` `Supabase`
+
+**Warta**
+A minimal editorial micro-blog.
+`Next.js`
+
+</td>
+</tr>
+</table>
+
+**AI Recap Work Summary** — a CLI tool that drafts my daily internship journal from local git activity.
+`Node.js` `Gemini API`
+
+<br />
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
 
 </div>
 
 <br />
 
-## GitHub Stats
+## 📚 Learning / Currently Exploring
+
+- System design fundamentals — structuring a codebase that scales past one feature
+- Advanced NestJS patterns — guards, interceptors, RLS-style data access
+- Typography and layout — sharpening my eye through my own projects
+- Writing more — documentation, notes, and reflections on what I learn
+
+<br />
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdrzkyystiawnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=e0e0e0" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdrzkyystiawnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=e0e0e0" alt="GitHub stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdrzkyystiawnn&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub streak" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdrzkyystiawnn&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub streak" />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdrzkyystiawnn&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=e0e0e0" alt="Top languages" height="150" />
 
 </div>
 
@@ -63,6 +111,6 @@ Saya seorang pengembang web & mobile yang sedang menjalani program PKL (Praktik 
 
 <div align="center">
 
-*"Design is not just what it looks like — design is how it works."*
+*I'm not trying to build the most impressive thing. I'm trying to build things that are honest, considered, and worth using.*
 
 </div>
