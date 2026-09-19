@@ -94,21 +94,6 @@ A minimal editorial micro-blog.
 
 <br />
 
-## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdrzkyystiawnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=e0e0e0" alt="GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdrzkyystiawnn&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub streak" height="165" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdrzkyystiawnn&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=e0e0e0" alt="Top languages" height="150" />
-
-</div>
-
-<br />
-
 <div align="center">
 
 *I'm not trying to build the most impressive thing. I'm trying to build things that are honest, considered, and worth using.*
