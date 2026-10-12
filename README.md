@@ -31,7 +31,6 @@ Full-stack developer from Bogor, Indonesia. I build web apps, CLI tools, and sma
 
 - **Focus:** product backends, dashboards, and the occasional developer tool
 - **Approach:** clean structure, small features that ship, and not over-engineering the boring parts
-- **Tinkering with:** agent frameworks and small utilities that save me an hour a week
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
