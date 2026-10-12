@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="249" viewBox="0 0 560 249" role="img" aria-label="Cleaning Service: Booking platform">
+  <defs>
+    <clipPath id="r"><rect x="1" y="1" width="558" height="233" rx="6"/></clipPath>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#111111" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#111111"/>
+      <stop offset="1" stop-color="#111111" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="233" rx="6" fill="#111111" fill-opacity="0.03" stroke="#111111" stroke-opacity="0.25" stroke-width="1.2"/>
+  <g clip-path="url(#r)">
+    <rect x="0" y="1" width="220" height="2" fill="url(#g)">
+      <animateTransform attributeName="transform" type="translate" from="-220 0" to="560 0" dur="5s" begin="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="24" y="44" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#111111">Cleaning Service</text>
+  <text x="24" y="66" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#6B6B6B">BOOKING PLATFORM</text>
+  <text x="536" y="40" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#6B6B6B">06</text>
+  <text x="24" y="100" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#3A3A3A"><tspan x="24" dy="0">Laravel 13 + Breeze web app for a cleaning business: public</tspan><tspan x="24" dy="21">landing and catalog, customer booking flow, and an admin panel</tspan><tspan x="24" dy="21">for packages, bookings, and FAQ.</tspan></text>
+  <rect x="24" y="189" width="91" height="24" rx="3" fill="#111111" fill-opacity="0.07" stroke="#111111" stroke-opacity="0.28"/><text x="69.5" y="205" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#111111">Laravel 13</text><rect x="123" y="189" width="61" height="24" rx="3" fill="#111111" fill-opacity="0.07" stroke="#111111" stroke-opacity="0.28"/><text x="153.5" y="205" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#111111">Breeze</text>
+  <text x="536" y="207" text-anchor="end" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" fill="#111111">↗
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite"/>
+  </text>
+</svg>
