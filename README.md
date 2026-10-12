@@ -1,101 +1,90 @@
-<div align="center">
+# Muhamad Rizky Setiawan
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Muhamad+Rizky+Setiawan;Web+Developer+%E2%80%94+Student+%E2%80%94+Builder;Designing+with+intention%2C+not+just+ambition." alt="typing animation" />
+Full-stack developer from Bogor, Indonesia. I build web apps, CLI tools,
+and small AI agents — usually with Laravel, Next.js, or Python, depending
+on what the job actually needs.
 
-<br />
+## About me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portofolio.muhamadrizky.my.id)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmdrzkyystiawnn)
+I work mostly on the web side of things: product backends, dashboards,
+and the occasional developer tool. I care about clean structure, small
+features that ship, and not over-engineering the boring parts. When I'm
+not shipping product code I'm poking at agent frameworks and writing
+small utilities that save me an hour a week.
 
-</div>
+## Tech stack
 
-<br />
+**Backend**
+- PHP — Laravel 11/12/13, Breeze
+- TypeScript / Node.js — NestJS 11, Express 5
+- Python — CLIs, small scripts, automation
 
-## <img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;About Me
+**Frontend**
+- Next.js 16 (App Router) + React 19 + TypeScript
+- Tailwind CSS v4, Radix UI, TanStack Query / Table
+- Framer Motion, Alpine.js, Blade
 
-I'm a vocational high school student majoring in Software and Game Development (PPLG) in Bogor, Indonesia, currently interning as a web developer. I'm early in my journey, and I'd rather be honest about that than perform confidence I haven't earned yet.
+**Database & data**
+- MySQL, PostgreSQL, SQLite
+- Prisma 8 (RC), Eloquent
 
-At my internship, I work on production software — contributing to Facility Management modules inside a larger monorepo, alongside a team, on code that other people depend on. It's taught me more than any course ever did.
+**Auth & integrations**
+- Laravel Breeze, Passport (Google OAuth / JWT), Argon2
+- Resend (transactional email), Upstash Redis (rate limiting)
+- Google Gemini API
 
-Outside of work, I build personal projects shaped by things I care about beyond code: editorial design, typography, writing, and digital publishing. I'd rather ship something small and considered than something big and sloppy.
+**Tooling**
+- pnpm workspaces, Vite, Turborepo
+- Pest, PHPUnit, Jest
+- GitHub Actions, Docker, Git
 
-<br />
+## Featured projects
 
-## <img src="https://api.iconify.design/lucide:target.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;Current Focus
+### Avunel — a multi-agent AI assistant
+Python CLI for orchestrating AI agents with skills, plugins, scheduled
+jobs, and conversation memory. Cross-platform (bash, fish, PowerShell).
+[github.com/mhmdrzkyystiawnn/avunel-agent](https://github.com/mhmdrzkyystiawnn/avunel-agent)
 
-```
-Backend    → NestJS, PostgreSQL — learning to design data models that hold up
-Frontend   → React, Next.js — building interfaces that feel calm, not busy
-Practice   → writing code I'd be comfortable handing to a teammate
-```
+### Faktura — invoicing monorepo
+A NestJS 11 + Prisma 8 API and a Next.js 16 web client, wired together
+in a pnpm monorepo. Argon2 + Google OAuth (Passport) for auth, Radix
+UI + TanStack on the front, Resend for transactional email. Built to
+ship serverless on Neon.
+[github.com/mhmdrzkyystiawnn/faktura](https://github.com/mhmdrzkyystiawnn/faktura)
 
-<br />
+### Library Connect — school library booking system
+A Laravel 12 app for a single school: students browse the catalog and
+book books, an admin approves bookings, tracks loans, and records
+late-return fines. Stock is enforced server-side; admin can set a
+different approved duration than the one the student asked for.
+[github.com/mhmdrzkyystiawnn/library-connect](https://github.com/mhmdrzkyystiawnn/library-connect)
 
-## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;Featured Projects
+### Portfolio site (this site)
+Next.js 16 with App Router, all content lives in JSON files at build
+time, so adding a project is a single commit. The contact form uses
+Resend and Upstash Redis for per-IP rate limiting.
+[github.com/mhmdrzkyystiawnn/portofolio](https://github.com/mhmdrzkyystiawnn/portofolio)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### PKL Jurnal Generator
+A Python tool that reads today's git log + diff across multiple
+projects, sends the relevant code to Gemini, and appends a daily
+summary to a weekly journal file. Skips re-generation on the same
+day to save API calls, with a `--force` flag when needed.
+[github.com/mhmdrzkyystiawnn/tools-ai-recap-work-summary](https://github.com/mhmdrzkyystiawnn/tools-ai-recap-work-summary)
 
-**[Portfolio](https://portofolio.muhamadrizky.my.id)**
-My personal site — where I write about and showcase what I build.
-`—`
+### Cleaning Service — booking platform
+Laravel 13 + Breeze web app for a cleaning service business: public
+landing and catalog, customer-side booking flow, and an admin panel
+for packages, bookings, and FAQ.
+[github.com/mhmdrzkyystiawnn/cleaning-service](https://github.com/mhmdrzkyystiawnn/cleaning-service)
 
-**Laras**
-A modern Indonesian dictionary (KBBI) app, including rhyme search.
-`Astro` `TypeScript`
+## Other work
 
-</td>
-<td width="50%" valign="top">
+I also work on internal / internship projects (facility management,
+metering, patrol, etc.) — these are not public and are owned together
+with the rest of the team, so I won't list them here.
 
-**Catatan**
-A personal journal app with an editorial-inspired interface.
-`React` `Next.js` `Supabase`
+## Contact
 
-**Warta**
-A minimal editorial micro-blog.
-`Next.js`
-
-</td>
-</tr>
-</table>
-
-**AI Recap Work Summary** — a CLI tool that drafts my daily internship journal from local git activity.
-`Node.js` `Gemini API`
-
-<br />
-
-## <img src="https://api.iconify.design/lucide:cpu.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white" />
-<br />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
-
-</div>
-
-<br />
-
-## <img src="https://api.iconify.design/lucide:book-open.svg?color=%23ffffff&height=20" valign="middle" /> &nbsp;Learning / Currently Exploring
-
-- System design fundamentals — structuring a codebase that scales past one feature
-- Advanced NestJS patterns — guards, interceptors, RLS-style data access
-- Typography and layout — sharpening my eye through my own projects
-- Writing more — documentation, notes, and reflections on what I learn
-
-<br />
-
-<div align="center">
-
-*I'm not trying to build the most impressive thing. I'm trying to build things that are honest, considered, and worth using.*
-
-</div>
+- GitHub: [@mhmdrzkyystiawnn](https://github.com/mhmdrzkyystiawnn)
+- Location: Bogor, Indonesia
