@@ -40,7 +40,7 @@ I am a final-year vocational high school student majoring in **Software Engineer
 
 ## Experience
 
-### Internship (PKL) | *Software Developer Intern*
+### Bogor CCTV | Internship (PKL) | *Software Developer Intern*
 **22 June 2026 - 30 October 2026**
 - Built and maintained the **Facility Management (FM)** module in a NestJS / React monorepo.
 - Integrated **Midtrans** payment gateway.
