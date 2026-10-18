@@ -64,9 +64,3 @@ I am a final-year vocational high school student majoring in **Software Engineer
 - **SMK, Software Engineering** | Grade 12
 
 ---
-
-<div align="center">
-
-*Keep learning, keep building.*
-
-</div>
