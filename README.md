@@ -15,6 +15,7 @@
 
 - [About Me](#about-me)
 - [Experience](#experience)
+- [Projects](#projects)
 - [Skills & Tools](#skills--tools)
 - [Education](#education)
 
@@ -47,6 +48,21 @@ I am a final-year vocational high school student majoring in **Software Engineer
 
 ---
 
+## Projects
+
+| Project | Description |
+| :--- | :--- |
+| [**Avunel**](https://github.com/mhmdrzkyystiawnn/avunel-agent) | Multi-agent AI assistant |
+| [**Faktura**](https://github.com/mhmdrzkyystiawnn/faktura) | Invoicing monorepo |
+| [**Library Connect**](https://github.com/mhmdrzkyystiawnn/library-connect) | School library booking system |
+| [**Portfolio**](https://github.com/mhmdrzkyystiawnn/portofolio) | Personal portfolio website |
+| [**PKL Journal Generator**](https://github.com/mhmdrzkyystiawnn/tools-ai-recap-work-summary) | Generates daily work journal drafts from git activity |
+| [**Cleaning Service**](https://github.com/mhmdrzkyystiawnn/cleaning-service) | Booking platform |
+
+> Internship projects (facility management, etc.) are private and owned together with the team, so they are not listed here.
+
+---
+
 ## Skills & Tools
 
 | Category | Icons | Technologies |
@@ -54,7 +70,7 @@ I am a final-year vocational high school student majoring in **Software Engineer
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,astro,tailwind" height="35" /> | React, Next.js, TypeScript, Astro, Tailwind CSS |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,laravel,php,prisma" height="35" /> | NestJS, Laravel, PHP, Prisma |
 | **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="35" /> | PostgreSQL, MySQL, Supabase |
-| **OS & Tools** | <img src="https://skillicons.dev/icons?i=arch,fedora,git,github" height="35" /> | Arch Linux, Fedora, Git, GitHub |
+| **OS & Tools** | <img src="https://skillicons.dev/icons?i=arch,git,github" height="35" /> | Arch Linux, Fedora, Git, GitHub |
 | **Design & Productivity** | <img src="https://skillicons.dev/icons?i=figma" height="35" /> | Figma, Canva, Microsoft Word, Microsoft Excel |
 
 ---
@@ -64,3 +80,9 @@ I am a final-year vocational high school student majoring in **Software Engineer
 - **SMK, Software Engineering** | Grade 12
 
 ---
+
+<div align="center">
+
+*Keep learning, keep building.*
+
+</div>
